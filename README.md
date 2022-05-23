@@ -1,4 +1,5 @@
 # leetcode_cplus
-leet code for c plus
-
-this is a test for connection
+Created date: 2022-05-23
+Author: MovedInDream
+Description:
+This is for C++ learning, any advices is welcome.
