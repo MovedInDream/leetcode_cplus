@@ -88,12 +88,11 @@ public:
 
 int main()
 {
-    cout << "This test is for jz06:" << std::endl;
+    cout << "This test is for jz24:" << std::endl;
 
     Solution test;
 
     // 构造链表
-    cout << "creating lianbiao ..." << endl;
     ListNode* head = new ListNode;
     ListNode* node1 = new ListNode(1);
     ListNode* node2 = new ListNode(2);
